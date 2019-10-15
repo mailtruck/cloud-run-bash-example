@@ -1,5 +1,7 @@
 # Cloud Run Server in Bash
 
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://deploy.cloud.run)
+
 This is a sample repository that runs a "server" in bash that can be deployed on
 Google Cloud Run.
 
