@@ -31,7 +31,8 @@ Google Cloud Run.
       --project "${PROJECT_ID}" \
       --platform "managed" \
       --region "us-central1" \
-      --image "gcr.io/${PROJECT_ID}/hello-world-bash"
+      --image "gcr.io/${PROJECT_ID}/hello-world-bash" \
+      --allow-unauthenticated
     ```
 
 1.  That's it!
